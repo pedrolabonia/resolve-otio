@@ -109,6 +109,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.venvdocs
 
 # Spyder project settings
 .spyderproject
@@ -127,3 +128,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.DS_Store
+.vscode/
+.idea
+
+test_build.ps1
+build_pypy.ps1
+Sample Script Plugin.py
+
+
+.ref/
